@@ -1,3 +1,6 @@
 [submodule "CS 121 (Harvard)- Theoretical CS"]
 	path = CS 121 (Harvard)- Theoretical CS
 	url = https://github.com/boazbk/tcs
+[submodule "Other Uni Open source materials/CS 121 (Harvard)- Theoretical CS/tcs"]
+	path = Other Uni Open source materials/CS 121 (Harvard)- Theoretical CS/tcs
+	url = https://github.com/ttuanho/tcs
